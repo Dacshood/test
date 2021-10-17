@@ -27,32 +27,32 @@ public class variableExample {
 		double area = 3.14159 * 10 * 10;
 		System.out.printf("반지름이 %d인 원의 넓이:%10.2f\n", 10, area);
 	
-//		int keyCode;
-//		
-//		keyCode = System.in.read();
-//		System.out.println(keyCode);
-//	
-//		keyCode = System.in.read();
-//		System.out.println(keyCode);
-//		
-//		keyCode = System.in.read();
-//		System.out.println(keyCode);
-//		
-//		while(true) {
-//		keyCode = System.in.read();
-//		System.out.println(keyCode);
-//		
+		int keyCode;
+		
+		keyCode = System.in.read();
+		System.out.println(keyCode);
+	
+		keyCode = System.in.read();
+		System.out.println(keyCode);
+		
+		keyCode = System.in.read();
+		System.out.println(keyCode);
+		
+		while(true) {
+		keyCode = System.in.read();
+		System.out.println(keyCode);
+		
 		//키코드값
 //	}
 		
-		Scanner scanner = new Scanner(System.in);
-		
-		String inputData = scanner.nextLine();
-		System.out.println(inputData);
-		
-		
+//		Scanner scanner = new Scanner(System.in);
+//		
+//		String inputData = scanner.nextLine();
+//		System.out.println(inputData);
 		
 		
+		
+		}
 		
 	}
 }

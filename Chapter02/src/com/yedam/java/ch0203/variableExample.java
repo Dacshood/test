@@ -26,7 +26,7 @@ public class variableExample {
 	
 		System.out.println("======== 강제 타입 변환 =========");
 		
-		int intValue1 = 44032;
+		int intValue1 = 485;
 		char charValue1 = (char)intValue1;
 		System.out.println("charValue : " + charValue1);
 	
